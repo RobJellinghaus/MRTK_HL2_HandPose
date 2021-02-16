@@ -9,7 +9,7 @@ prototyping.
 This repository consists of a complete Unity MRTK project for HoloLens 2. The MRTK
 documentation above describes how to set up MRTK on your system; I won't duplicate
 that information here. I will say that if you pull, build, and run this, you should
-see something similar to [this very brief demo video](https://twitter.com/MCSpaceCadet/status/1361489619909443592).
+see something similar to [this very brief demo video](https://twitter.com/MCSpaceCadet/status/1361515238219083776).
 
 Almost all of this repository is the MRTK code itself; the only actual new code here is
 in [the HandPose directory](Assets/HandPose), in particular the [HandPoseClassifier.cs](Assets/HandPose/HandPoseClassifier.cs) class.
